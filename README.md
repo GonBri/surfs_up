@@ -11,5 +11,5 @@
     * Min 56
     * Max 83
     
-3. Summary
+3. Summary:
     On the month of December the min temperature is around 10 degres below from Junes temperature which is a good indicator that the traffic on the store could remain the same from turists visiting during winter. The good news is that the max temperature reaches up to 83 on the month of December, just 2 degrees below June's results.
